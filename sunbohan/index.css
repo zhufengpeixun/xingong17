@@ -1,0 +1,355 @@
+/* *{
+    margin: 0;
+    padding: 0;
+}
+html,body,.mainBox{
+    width: 100%;
+    height: 100%;
+    border: 0;
+    background: #292727;
+    position: relative;
+    overflow: hidden;
+} */
+.page1 {
+    background: url(http://ps3navvpf.bkt.clouddn.com/sunbohan/yi.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.page1 img:nth-child(1) {
+    position: absolute;
+    top: .54rem;
+    left: -0.12rem;
+    right: 0;
+    width: 8.5rem;
+    opacity: 0.6;
+    overflow: hidden;
+    /* animation: z 3s ease ; */
+}
+
+.page1 img:nth-child(2) {
+    position: absolute;
+    top: 1.8rem;
+    left: 0.85rem;
+    width: 3.5rem;
+    height: 1.8rem;
+    opacity: 1;
+    /* animation: y 3s ease ; */
+}
+
+.page1 img:nth-child(3) {
+    position: absolute;
+    top: 1.8rem;
+    left: 3.5rem;
+    width: 3.5rem;
+    height: 1.8rem;
+    opacity: 1;
+    /* animation: y 3s ease; */
+}
+
+.page1 img:nth-child(4) {
+    position: absolute;
+    top: 4.4rem;
+    left: 0.85rem;
+    width: 3.5rem;
+    height: 1.8rem;
+    opacity: 1;
+    /* animation: y 3s ease; */
+}
+
+.page1 img:nth-child(5) {
+    position: absolute;
+    top: 4.4rem;
+    left: 3.5rem;
+    width: 3.5rem;
+    height: 1.8rem;
+    opacity: 1;
+    /* animation: y 3s ease; */
+}
+
+.page1 img:nth-child(6) {
+    position: absolute;
+    bottom: 0rem;
+    left: 0.7rem;
+    width: 2.5rem;
+    height: 6rem;
+
+}
+
+.page2 {
+    overflow: hidden;
+    background: url(http://ps3navvpf.bkt.clouddn.com/sunbohan/S2.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.page2 img:nth-child(1) {
+    position: absolute;
+    top: .54rem;
+    right: 0;
+    width: 4.1rem;
+    opacity: 0.6;
+    overflow: hidden;
+    /* animation: z 4s ease; */
+}
+
+.page2 img:nth-child(2) {
+    position: absolute;
+    top: 1.35rem;
+    left: 3.8rem;
+    width: 3.5rem;
+    height: 1.8rem;
+    opacity: 1;
+    /* animation: qq 4s ease; */
+}
+
+.page2 img:nth-child(3) {
+    position: absolute;
+    top: 4.1rem;
+    left: -1.5rem;
+    width: 10rem;
+    height: 2.6rem;
+}
+
+.page2 img:nth-child(4) {
+    position: absolute;
+    top: 6rem;
+    left: -1rem;
+    width: 10rem;
+    height: 2.6rem;
+}
+
+.page2 img:nth-child(5) {
+    position: absolute;
+    top: 8.4rem;
+    left: 1.5rem;
+    width: 5rem;
+    height: 4.5rem;
+
+}
+
+.page3 {
+    overflow: hidden;
+    background: url(http://ps3navvpf.bkt.clouddn.com/sunbohan/s3.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.page3 img:nth-child(1) {
+    position: absolute;
+    top: .54rem;
+    right: 0;
+    width: 4.1rem;
+    opacity: 0.6;
+    overflow: hidden;
+    /* animation: z 4s ease; */
+}
+
+.page3 img:nth-child(2) {
+    position: absolute;
+    top: 1.4rem;
+    left: 3.8rem;
+    width: 3.5rem;
+    height: 1.8rem;
+    opacity: 1;
+    /* animation: qq 4s ease; */
+}
+
+.page3 img:nth-child(3) {
+    position: absolute;
+    top: 6rem;
+    left: 0rem;
+    width: 1.5rem;
+    height: 5rem;
+}
+
+.page3 img:nth-child(4) {
+    position: absolute;
+    top: 5rem;
+    left: 1.4rem;
+    width: 1.5rem;
+    height: 5rem;
+}
+
+.page3 img:nth-child(5) {
+    position: absolute;
+    top: 4.1rem;
+    left: 2.6rem;
+    width: 5rem;
+    height: 4.5rem;
+
+}
+
+.page4 {
+    overflow: hidden;
+    background: url(http://ps3navvpf.bkt.clouddn.com/sunbohan/s5.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.page4 img:nth-child(1) {
+    position: absolute;
+    top: .54rem;
+    left: 0;
+    width: 4.1rem;
+    opacity: 0.6;
+    overflow: hidden;
+    /* animation: z 4s ease; */
+}
+
+.page4 img:nth-child(2) {
+    position: absolute;
+    top: 1.35rem;
+    left: 0.3rem;
+    width: 3.5rem;
+    height: 1.8rem;
+    opacity: 1;
+    /* animation: qq 4s ease; */
+}
+
+.page4 img:nth-child(3) {
+    position: absolute;
+    top: 8rem;
+    left: 0rem;
+    width: 5rem;
+    height: 2.4rem;
+}
+
+.page4 img:nth-child(4) {
+    position: absolute;
+    top: 9.5rem;
+    left: 2.5rem;
+    width: 5rem;
+    height: 2.4rem;
+}
+
+.page4 img:nth-child(5) {
+    position: absolute;
+    top: 4rem;
+    left: 0.5rem;
+    width: 5rem;
+    height: 4.5rem;
+
+}
+
+.page5 {
+    overflow: hidden;
+    background: url(http://ps3navvpf.bkt.clouddn.com/sunbohan/s4.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.page5 img:nth-child(1) {
+    position: absolute;
+    top: .3rem;
+    right: 0;
+    width: 4.1rem;
+    opacity: 0.6;
+    overflow: hidden;
+    /* animation: z 4s ease; */
+}
+
+.page5 img:nth-child(2) {
+    position: absolute;
+    top: 1.35rem;
+    left: 3.8rem;
+    opacity: 1;
+    width: 3.5rem;
+    height: 1.8rem;
+    /* animation: qq 4s ease; */
+}
+
+.page5 img:nth-child(3) {
+    position: absolute;
+    top: 3.5rem;
+    left: 0.5rem;
+    width: 6rem;
+    height: 5.5rem;
+
+}
+
+@keyframes z {
+    0% {
+        opacity: 0;
+        transform: rotate(-180deg);
+        -webkit-animation: rotate(-180deg);
+    }
+
+    100% {
+        opacity: 0.6;
+        transform: rotate(0deg);
+        -webkit-animation: rotate(0deg);
+    }
+}
+
+@keyframes y {
+    0% {
+        transform: rotate(0deg);
+        -webkit-animation: rotate(0deg);
+        opacity: 0;
+    }
+
+    90% {
+        transform: rotate(360deg);
+        -webkit-animation: rotate(360deg);
+        opacity: 1;
+    }
+
+    91% {
+        transform: skew(3deg, 4deg);
+        -webkit-animation: skew(3deg, 4deg);
+    }
+
+    96% {
+        transform: skew(-3deg, -4deg);
+        -webkit-animation: skew(-3deg, -4deg);
+    }
+
+    100% {
+        transform: skew(0);
+        -webkit-animation: skew(0);
+    }
+}
+
+@keyframes q {
+    0% {
+        opacity: 0;
+        transform: translate(50px, 80px);
+        -webkit-animation: translate(50px, 80px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translate(0);
+        -webkit-animation: translate(0);
+    }
+}
+
+@keyframes s {
+    0% {
+        opacity: 0;
+        transform: scale(0);
+        -webkit-animation: scale(0);
+    }
+
+    50% {
+        opacity: 0.5;
+        transform: scale(1.5);
+        -webkit-animation: scale(1.5);
+    }
+
+    100% {
+        opacity: 1;
+        transform: scale(1);
+        -webkit-animation: scale(1);
+    }
+}
+
+@keyframes w {
+    0% {
+        opacity: 0;
+        transform: translate(150px, 0);
+        -webkit-animation: translate(150px, 0);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translate(0, 0);
+        -webkit-animation: translate(0, 0);
+    }
+}
