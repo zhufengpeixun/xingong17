@@ -1,0 +1,35 @@
+.page1{
+    background:url(http://ps3navvpf.bkt.clouddn.com/gengmenglin/8.jpg) no-repeat;
+    background-size:100% 100%;
+   
+}
+.page2{
+    background: url(http://ps3navvpf.bkt.clouddn.com/gengmenglin/1.jpg) no-repeat;
+    background-size:100% 100%;
+}
+.page3{
+    background: url(http://ps3navvpf.bkt.clouddn.com/gengmenglin/3.jpg) no-repeat;
+    background-size: 100% 100%;
+   
+}
+.page4{
+    background: url(http://ps3navvpf.bkt.clouddn.com/gengmenglin/4.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+.page5{
+    background: url(http://ps3navvpf.bkt.clouddn.com/gengmenglin/5.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+.page1 img:nth-child(1){
+    position: absolute;
+    top: 0;
+    left: 5em;
+    width: 4rem;
+}
+.page2 img:nth-child(1){
+    position: absolute;
+    top: 5em;
+}
+.page5 img:nth-child(1){
+    position: absolute;
+}

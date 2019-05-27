@@ -1,0 +1,132 @@
+.page1{
+    background:url(http://ps3navvpf.bkt.clouddn.com/liuhong/beijing2.jpg) no-repeat center;
+    background-size: cover;
+    position: relative;
+}
+
+.ww{
+    font-size: 0.4rem;
+    font-style: initial;  
+    position: absolute;
+    top: 1.1rem;
+    left: 0.4rem;
+    font-family: "华文行楷";
+    font-size: 0.45rem;
+}
+.qq{
+    font-size: 0.4rem;
+    font-style: initial;  
+    position: absolute;
+    top:1.6rem;
+    left: 0.8rem;
+    font-family: "华文行楷";
+    font-size: 0.45rem;
+}
+.wenzi{
+    writing-mode: vertical-rl;
+    font-size: 0.4rem;
+}
+.img1{
+   width: 7.85rem;
+   height:3.33rem;
+}
+.page2{
+    position: relative;
+}
+.hh {
+    font-size: 0.4rem;
+    position: absolute;
+    top: 0.2rem;
+    left: 0.3rem;
+    writing-mode: vertical-rl;
+    font-family: fantasy;
+    letter-spacing: 0.1rem;
+}
+.hh2 {
+    font-size: 0.3rem;
+    position: absolute;
+    top: 2rem;
+    left: 0.9rem;
+    writing-mode: vertical-rl;
+    font-family: fantasy;
+    letter-spacing: 0.1rem;
+}
+.page3{
+    position: relative;
+    background: url(http://ps3navvpf.bkt.clouddn.com/liuhong/1.jpg)no-repeat center;
+    background-size: cover;
+}
+.pp{
+    font-size: 0.7rem;
+    font-family: "楷体";
+    writing-mode: vertical-lr;
+    
+}
+.pp2{
+    position: absolute;
+    top: 5.3rem;
+    left: 1.2rem;
+    font-size: 0.7rem;
+    font-family: "楷体";
+    writing-mode: vertical-lr;
+}
+.page4{
+    position: relative;
+    background: url(http://ps3navvpf.bkt.clouddn.com/liuhong/长大之后5.jpg) no-repeat center;
+    background-size: cover;
+}
+.pa{
+    position: absolute;
+    left: 0.9rem;
+    font-size: 0.9rem;
+    font-family: "华文行楷";
+    writing-mode: vertical-lr;
+}
+.pa2{
+    position: absolute;
+    left: 2rem;
+    top: 0.8rem;
+    font-size: 0.9rem;
+    font-family: "华文行楷";
+    writing-mode: vertical-lr;
+}
+.page5{
+    background: url(http://ps3navvpf.bkt.clouddn.com/liuhong/kk.jpg) no-repeat center;
+    background-size: cover;
+}
+.page5{
+    position: relative;
+}
+.aa{
+    position: absolute;
+    top: 0.5rem;
+    left: 0.25rem;
+     font-size: 0.5rem;
+    color: aliceblue;
+    font-family: "华文隶书";
+  
+}
+.bb{
+position: absolute;
+    top: 0.95rem;
+    left: 0.3rem;
+    font-size: 0.6rem;
+    color: aliceblue;
+    font-family: "华文隶书";
+} 
+.cc{
+    position: absolute;
+    top: 2.2rem;
+    left: 0.4rem;
+    font-size: 0.7rem;
+    color: aliceblue;
+    font-family: "华文隶书";
+}
+.dd{
+    position: absolute;
+    top: 4rem;
+    left: 0.5rem;
+    font-size: 0.8rem;
+    color: aliceblue;
+    font-family: "华文隶书";
+}
