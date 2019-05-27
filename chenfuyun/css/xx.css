@@ -1,0 +1,145 @@
+.page1{
+    background:url(http://ps3navvpf.bkt.clouddn.com/chenfuyun/emeishan1.jpg) no-repeat;
+    background-size:100% 100%;
+   
+}
+.page2{
+    background: url(http://ps3navvpf.bkt.clouddn.com/chenfuyun/emeishan2.jpg) no-repeat;
+    background-size: cover;
+}
+.page3{
+    background: url(http://ps3navvpf.bkt.clouddn.com/chenfuyun/jiuzhaigou4.jpg) no-repeat;
+    background-size: 100% 100%;
+   
+}
+.page4{
+    background: url(http://ps3navvpf.bkt.clouddn.com/chenfuyun/xiongmao.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+.page5{
+    background: url(http://ps3navvpf.bkt.clouddn.com/chenfuyun/jiuzhaigou1.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+.page1 img:nth-child(1){
+    position: absolute;
+    top: 0;
+    left: -2rem;
+    width: 8rem;
+    height: 8rem;
+}
+.page3 p1{
+    font-size: 50px;
+    color: chartreuse;
+    font-family: "楷体";
+    margin-left: 40px;
+  
+}
+.page3 p2{
+    font-size: 50px;
+    color: chartreuse;
+    font-family: "楷体";
+    margin-left: 40px;
+   
+}
+.page3 p3{
+    font-size: 50px;
+    color: chartreuse;
+    font-family: "楷体";
+    margin-left: 40px;
+    
+}
+.page3 p4{
+    font-size: 50px;
+    color: chartreuse;
+    font-family: "楷体";
+    margin-left: 40px;
+  
+}
+.page3 p5{
+    font-size: 50px;
+    color: chartreuse;
+    font-family: "楷体";
+    margin-left: 40px;
+ 
+}
+.page3 p6{
+    font-size: 50px;
+    color: chartreuse;
+    font-family: "楷体";
+    margin-left: 40px;
+    
+}
+
+.page4 p{
+    font-size: 60px;
+    color:blue;
+    font-family: "楷体";
+    margin-top: 80px;
+
+}
+.page5 p1{
+    font-size: 50px;
+    color: black;
+    font-family: "楷体";
+    margin-left: 300px;
+ 
+}
+.page5 p2{
+    font-size: 50px;
+    color: black;
+    font-family: "楷体";
+    margin-left: 300px;
+ 
+}
+.page5 p3{
+    font-size: 50px;
+    color: black;
+    font-family: "楷体";
+    margin-left: 300px;
+ 
+}
+.page5 p4{
+    font-size: 50px;
+    color: black;
+    font-family: "楷体";
+    margin-left: 300px;
+ 
+}
+.page5 p5{
+    font-size: 50px;
+    color: black;
+    font-family: "楷体";
+    margin-left: 300px;
+ 
+}
+.page5 p6{
+    font-size: 50px;
+    color: black;
+    font-family: "楷体";
+    margin-left: 300px;
+ 
+}
+.page5 p7{
+    font-size: 50px;
+    color: black;
+    font-family: "楷体";
+    margin-left: 300px;
+  
+ 
+}
+.page5 p8{
+    font-size: 50px;
+    color: black;
+    font-family: "楷体";
+    margin-left: 300px;
+   
+    
+ 
+}
+.page5 p9{
+    font-size: 50px;
+    color: black;
+    font-family: "楷体";
+    margin-left: 300px;
+ 
+}

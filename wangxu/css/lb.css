@@ -1,0 +1,98 @@
+.page1 img:nth-child(1){
+    position: absolute;
+    top: 0;
+    left: -1rem;
+    width:550px;
+    height: 667px;
+}
+.page1 img:nth-child(2){
+    position: absolute;
+    top: -1rem;
+    left: -2rem;
+    width: 7.2rem;
+    height:6.2rem;
+}
+.page1 img:nth-child(3){
+    position: absolute;
+    top: 1.5rem;
+    left: -2.5rem;
+    width: 7.2rem;
+    height: 6.2rem;
+}
+
+.page2{
+    background: url(http://ps3navvpf.bkt.clouddn.com/tianxu/11.jpg) no-repeat 50%;
+    background-size: cover;
+}
+/* .page2 img:nth-child(1){
+    position: absolute;
+    top: 0;
+    left:0rem;
+    width: 400px;
+    height: 665px;
+} */
+.page2 img:nth-child(1){
+    position: absolute;
+    top: 2.5rem;
+    left: -1.8rem;
+    width: 7.2rem;
+    height: 6.2rem;
+}
+.page2 img:nth-child(2){
+    position: absolute;
+    top: 3.5rem;
+    left: 1.3rem;
+    width: 7.2rem;
+    height: 6.2rem;
+}
+
+.page3{
+    background: url(http://ps3navvpf.bkt.clouddn.com/tianxu/12.png) no-repeat 50%;
+    background-size: cover;
+}
+.page3 img:nth-child(1){
+    position: absolute;
+   bottom: -3rem;
+    left: 0;
+    width: 7.2rem;
+    height: 6.2rem;
+}
+.page3 img:nth-child(2){
+    position: absolute;
+   bottom: 5rem;
+    left: -2.4rem;
+    width: 7.2rem;
+    height: 6.2rem;
+}
+.page4{
+    background: url(http://ps3navvpf.bkt.clouddn.com/tianxu/17.png) no-repeat 50%;
+    background-size: cover;
+}
+.page4 img:nth-child(1){
+    position: absolute;
+   bottom: 2rem;
+    left: -2.4rem;
+    width: 7.2rem;
+    height: 12rem;
+}
+.page4 img:nth-child(2){
+    position: absolute;
+   bottom: -2rem;
+    left: -0.5rem;
+    width: 5rem;
+    height: 8rem;
+}
+.page5 img:nth-child(1){
+    position: absolute;
+  top: 0%;
+    left: 0rem;
+    width: 5rem;
+    height: 13.5rem;
+}
+.page5 img:nth-child(2){
+    position: absolute;
+   top: 0%;
+    right: -1.2rem;
+    width: 5rem;
+    height:13.5rem;
+}

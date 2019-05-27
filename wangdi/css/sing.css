@@ -1,0 +1,138 @@
+.page1{
+    background: url(http://ps3navvpf.bkt.clouddn.com/wangdi/sing.jpg);
+    background-size: cover;
+}
+.page1 img:nth-child(1){
+    position: absolute;
+    right: -110px;
+    bottom: 210px;
+}
+.page1 img:nth-child(2){
+    position: absolute;
+    right: -80px;
+    bottom: 135px;
+}
+.page1 img:nth-child(3){
+    position: absolute;
+    right: -130px;
+    bottom: 70px;
+}
+.page1 img:nth-child(4){
+    position: absolute;
+    right: -45px;
+    bottom: -15px;
+}
+.page1 img:nth-child(5){
+    position: absolute;
+    left: -210px;
+    top: 310px;
+}
+.page1 img:nth-child(6){
+    position: absolute;
+    left: -50px;
+    top: 360px;
+}
+
+
+
+.page2{
+    overflow: hidden;
+}
+.page2 img:nth-child(1){
+    width: 100%;
+    position: absolute;
+    margin: auto;
+    top:0px;
+    bottom:0;
+    left:0;
+    right: 0;
+}
+.page3{
+    overflow: hidden;
+}
+.page3 img:nth-child(1){
+    width: 100%;
+    position: absolute;
+    margin: auto;
+    top:0;
+    bottom:0;
+    left:0;
+    right: 0;
+}  
+.page4{
+    overflow: hidden;
+}
+.page4 img:nth-child(1){
+    width: 100%;
+    position: absolute;
+    margin: auto;
+    top:0;
+    bottom:0;
+    left:0;
+    right: 0;
+}    
+.page5{
+    overflow: hidden;
+}
+.page5 img:nth-child(1){
+    width: 100%;
+    position: absolute;
+    margin: auto;
+    top:0;
+    bottom:0;
+    left:0;
+    right: 0;
+}  
+.page6{
+    overflow: hidden;
+}
+.page6 img:nth-child(1){
+    width: 100%;
+    position: absolute;
+    margin: auto;
+    top:0;
+    bottom:0;
+    left:0;
+    right: 0;
+}      
+.page7{
+    overflow: hidden;
+}
+.page7 img:nth-child(1){
+    width: 100%;
+    position: absolute;
+    margin: auto;
+    top:0;
+    bottom:0;
+    left:0;
+    right: 0;
+}     
+.page8{
+    overflow: hidden;
+}
+.page8 img:nth-child(1){
+    width: 100%;
+    position: absolute;
+    margin: auto;
+    top:0;
+    bottom:0;
+    left:0;
+    right: 0;
+}    
+.page9{
+    overflow: hidden;
+}
+.page9 img:nth-child(1){
+    width: 100%;
+    position: absolute;
+    margin: auto;
+    top:0;
+    bottom:0;
+    left:0;
+    right: 0;
+}  
+.page9 img:nth-child(2){
+    position: absolute;
+    left: -170px;
+    top: 355px;
+}

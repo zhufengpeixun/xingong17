@@ -1,0 +1,278 @@
+.page1{
+    background: url(http://ps3navvpf.bkt.clouddn.com/guojianbo/bj.jpg) no-repeat;
+    background-size: cover;
+}
+.page2{
+    background: url(http://ps3navvpf.bkt.clouddn.com/guojianbo/bj.jpg) no-repeat;
+    background-size: cover;
+}
+.page3{
+    background: url(http://ps3navvpf.bkt.clouddn.com/guojianbo/bj.jpg) no-repeat;
+    background-size: cover;
+}
+.page4{
+    background: url(http://ps3navvpf.bkt.clouddn.com/guojianbo/bj.jpg) no-repeat;
+    background-size: cover;
+}
+.page5{
+    background: url(http://ps3navvpf.bkt.clouddn.com/guojianbo/bj.jpg) no-repeat;
+    background-size: cover;
+}
+.page6{
+    background: url(http://ps3navvpf.bkt.clouddn.com/guojianbo/bj.jpg) no-repeat;
+    background-size: cover;
+}
+.page1 img:nth-child(1){
+    position: absolute;
+    top: 1rem;
+    left: 0;
+    width: 99%;
+}
+.page1 img:nth-child(2){
+    position: absolute;
+    top:.3rem;
+    left:4.5rem;
+    width:3.5rem;
+    height: 6rem;
+}
+.page1 img:nth-child(3){
+position: absolute;
+bottom: 2em;
+left: .5rem;
+width: 4rem;
+}
+.page2 img:nth-child(1){
+    position: absolute;
+    width: 85%;
+    bottom: .65em;
+    left: .7rem;
+}
+.page2 img:nth-child(2){
+    position: absolute;
+    width: 85%;
+    top: 2rem;
+    left: .7rem;
+}
+.page2 img:nth-child(3){
+    position: absolute;
+    width: 100%;
+    top: 5rem;
+    right:-.5rem;
+    width:3.3rem;
+    height: 5rem;
+}
+.page3 img:nth-child(1){
+    position: absolute;
+    width: 100%;
+    bottom: .8rem;
+    left: 0rem;
+}
+.page3 img:nth-child(2){
+    position: absolute;
+    width: 85%;
+    top: 2rem;
+    left: .7rem;
+}
+.page3 img:nth-child(3){
+    position: absolute;
+    width: 100%;
+    top: 5.5rem;
+    right:5rem;
+    width:3.3rem;
+    height: 5rem;
+}
+.page4 img:nth-child(1){
+    position: absolute;
+    width: 80%;
+    bottom: 0rem;
+    left: 0rem;
+}
+.page4 img:nth-child(2){
+    position: absolute;
+    width: 100%;
+    height: 20%;
+    top: 1.5rem;
+}
+.page4 img:nth-child(3){
+    position: absolute;
+    width: 100%;
+    top:5.5rem;
+    right:-.5rem;
+    width:3.5rem;
+    height: 5rem;
+}
+.page5 img:nth-child(1){
+    position: absolute;
+    width: 80%;
+    bottom: 0rem;
+    left: 0rem;
+}
+.page5 img:nth-child(2){
+    position: absolute;
+    width: 100%;
+    height: 20%;
+    top: 1.5rem;
+}
+.page5 img:nth-child(3){
+    position: absolute;
+    width: 100%;
+    top:5.5rem;
+    right:-.5rem;
+    width:3.5rem;
+    height: 5rem;
+}
+.page6 img:nth-child(1){
+    position: absolute;
+    width: 100%;
+    bottom: 0rem;
+    left: 0rem;
+}
+.page6 img:nth-child(2){
+    position: absolute;
+    width: 100%;
+    top: 2rem;
+}
+.page6 img:nth-child(3){
+    position: absolute;
+    width: 100%;
+    top: 5.5rem;
+    right:5rem;
+    width:3.3rem;
+    height: 5rem;
+}
+.page7{
+    position: absolute;
+    width: 100%；
+}
+.page1wz1{
+    font-size: .45rem;
+    position: absolute;
+    top: 10.8rem;
+    left: .6rem;
+}
+.page1wz2{
+    font-size: .45rem;
+    position: absolute;
+    top: 6rem;
+    left:4.3rem;
+}
+.page1wz3{
+    font-size: .8rem;
+    position: absolute;
+    top: 6.5rem;
+    left:4.6rem;
+}
+.page1wz4{
+    font-size: .45rem;
+    position: absolute;
+    top: 7.7rem;
+    left:4.5rem;
+}
+.page1wz5{
+    font-size: .45rem;
+    position: absolute;
+    top:8.2rem;
+    left:4.2rem;
+}
+.page1wz6{
+    font-size: .45rem;
+    position: absolute;
+    top:9rem;
+    left:4.5rem;
+}
+.page1wz7{
+    font-size: 1rem;
+    position: absolute;
+    top: 10.5rem;
+    left:4.6rem;
+    color: red;
+}
+.page2wz1{
+    font-size: .6rem;
+    position: absolute;
+    top: 2.5rem;
+    left: 1.25rem;
+}
+.page2wz2{
+    font-size: .8rem;
+    position: absolute;
+    top: 4rem;
+    left: 1.8rem;
+    color: grey;
+}
+.page2wz3{
+    font-size: .5rem;
+    position: absolute;
+    top: 5.5rem;
+    left: 2rem;
+    color: red;
+}
+.page3wz1{
+    font-size: .6rem;
+    position: absolute;
+    top: 2.5rem;
+    left: 1.25rem;
+}
+.page3wz2{
+    font-size: .8rem;
+    position: absolute;
+    top: 4rem;
+    left: 1.8rem;
+    color: grey;
+}
+.page3wz3{
+    font-size: .5rem;
+    position: absolute;
+    top: 5.5rem;
+    left: 2rem;
+    color: red;
+}
+.page4wz1{
+    font-size: .6rem;
+    position: absolute;
+    width: 80%;
+    top: 2rem;
+    left: .7rem;
+}
+.page4wz2{
+    font-size: .8rem;
+    position: absolute;
+    top: 4rem;
+    left: 1.8rem;
+    color: grey;
+}
+.page4wz3{
+    font-size: .4rem;
+    position: absolute;
+    top: 5.5rem;
+    left: 1rem;
+    color: red;
+}
+.page5wz1{
+    font-size: .6rem;
+    position: absolute;
+    width: 80%;
+    top: 2rem;
+    left: .7rem;
+}
+.page5wz2{
+    font-size: .8rem;
+    position: absolute;
+    top: 4rem;
+    left: 1.8rem;
+    color: grey;
+}
+.page5wz3{
+    font-size: .6rem;
+    position: absolute;
+    top: 5.5rem;
+    left: 1.7rem;
+    color: red;
+}
+.page6wz1{
+    font-size: .6rem;
+    position: absolute;
+    top: 2.5rem;
+    left: 1rem;
+}
+

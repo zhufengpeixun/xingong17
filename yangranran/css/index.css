@@ -1,0 +1,78 @@
+.page1{
+    background:url(http://ps3navvpf.bkt.clouddn.com/yangranran/index_6.png);
+}
+.page2{
+    background: url(http://ps3navvpf.bkt.clouddn.com/yangranran/index_6.png);
+}
+.page3{
+    background: #fff;
+}
+.page1 img:nth-child(1){
+     width:7.5rem;
+   margin-top:1rem;
+   
+}
+.page1 img:nth-child(2){
+   position:absolute;
+    width:7.5rem;
+    height:2rem;
+   bottom:0rem;
+
+}
+.page2 img:nth-child(1){
+    position:absolute;
+    width:3.5rem;
+    left: 0;
+    top: 7.5rem;
+} 
+.page2 img:nth-child(2){
+    position:absolute;
+    width:3.5rem;
+    top:0.5rem;
+    right:0;
+    left:0;
+    margin:0 auto;
+} 
+.page2 img:nth-child(3){
+    position:absolute;
+    width:3.5rem;
+   bottom:0;
+    right:0;
+    left:4rem;
+   
+} 
+.page2 img:nth-child(4){
+    position:absolute;
+    width:3.5rem;
+    bottom:7.1rem;
+    right:0;
+    left:4rem;
+} 
+
+.page3 img:nth-child(1){
+    position:absolute;
+    width: 12rem;
+    height:2rem;
+    top:1.5rem;
+    left: 1.1rem;
+    
+}
+.page3 img:nth-child(2){
+    position:absolute;
+    width:7.5rem;
+    height:4rem;
+    bottom:4.5rem;
+    right:2rem;
+    left:0;  
+ 
+}
+.page3 img:nth-child(3)
+{
+    position:absolute;
+    width:7.5rem;
+    height:4rem;
+   top:9.2rem;
+    right:2rem;
+    left:0;  
+}
+

@@ -1,0 +1,68 @@
+.page1{
+    background:white;
+}
+.page2{
+    background:white;
+}
+.page3{
+    background: white;
+}
+.page1 img:nth-child(1){
+   
+    width:7.5rem;
+    height:3.5rem;
+
+}
+.page1 img:nth-child(2){
+
+    width:7.5rem;
+    height:3rem;
+
+
+    
+}
+.page1 img:nth-child(3){
+    position:absolute;
+    width:7.5rem;
+
+    bottom:0rem;
+}
+
+.page2 img:nth-child(1){
+   
+    width:7.5rem;
+    
+}
+.page2 img:nth-child(2){
+    
+    width:7.5rem;
+   position: absolute;
+   bottom:0;
+
+}
+
+.page3 img:nth-child(1){
+    
+    width:5rem;
+    margin: 1rem 1.25rem;
+
+
+}
+
+.page3 img:nth-child(2){
+    position:absolute;
+    width:7.5rem;
+   border: 15px gold ridge ;
+   box-sizing: border-box;
+   bottom:0;
+}
+
+
+
+
+
+
+
+
+
+

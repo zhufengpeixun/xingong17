@@ -1,0 +1,68 @@
+.page1 { 
+    background:url(http://ps3navvpf.bkt.clouddn.com/donghaichao/1.jpg) no-repeat center bottom;
+    background-size: cover;
+  
+}
+.page1 img:nth-child(1){
+    position:absolute;
+    top: 0.7rem;
+    z-index: 99;
+    width: 6.6rem;
+    height: 5.5rem;
+    left: 0.4rem;
+}
+
+.page2 { 
+    background:url(http://ps3navvpf.bkt.clouddn.com/donghaichao/3.jpg) no-repeat center center;
+    background-size: cover;
+     
+}
+.page2 img:nth-child(1){
+    position:absolute;
+    top:50px;
+    width: 1.2rem;
+    height: 2.7rem;
+    left: 0.3rem;
+
+}
+.page3 { 
+    background:url(http://ps3navvpf.bkt.clouddn.com/donghaichao/4.jpg) no-repeat center ;
+    background-size: cover;
+}
+.page3 img:nth-child(1){
+    position:absolute;  
+    width: 3rem;
+    height: 9rem;
+    left: -1rem;
+}
+.page4 { 
+    background:url(http://ps3navvpf.bkt.clouddn.com/donghaichao/6.jpg) no-repeat center ;
+    background-size: cover;
+}
+.page4 img:nth-child(1){
+    position:absolute;  
+    top:0.1rem;
+    left:0.02rem;
+     
+}
+/* .page4 img:nth-child(2){
+    position:absolute; 
+    top: 150px; 
+     
+} */
+.page4 img:nth-child(3){
+    position:absolute;  
+    top:4rem;
+    right: 0.05rem;
+     
+}
+.page4 img:nth-child(4){
+    position:absolute;
+    bottom: 0.2rem;
+    left: 0.7rem;
+     
+}
+.page5 { 
+    background:url(http://ps3navvpf.bkt.clouddn.com/donghaichao/7.jpg) no-repeat center center;
+    background-size: cover;
+}

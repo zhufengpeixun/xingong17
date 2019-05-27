@@ -1,0 +1,152 @@
+.page1 {
+      background: url(http://ps3navvpf.bkt.clouddn.com/yangyu/index_6.png);
+      background-size: cover;
+}
+.aa{
+    writing-mode: vertical-lr;
+    font-size: 20px;
+    color: darkslategrey;
+}
+.page1 img:nth-child(1){
+    position:absolute;
+    top: 0;
+    right: 0px;
+    width: 4.68rem;
+    height: 3.48rem;
+}
+.page1 img:nth-child(2){
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 7.5rem;
+    height: 4rem;
+}
+.page1 img:nth-child(3){
+    position: absolute;
+    top: 200px;
+    right: 50px;
+    width: 5rem;
+    height: 5rem;
+} 
+.page2{
+    background-size: cover;
+}
+.bb{
+    font-size: 20px;
+    color: darkslategrey;
+    position: absolute;
+           top : 250px;
+           right: 10px;
+           width: 300px;
+           height: 180px;
+}
+.page2 img:nth-child(1){
+    position:absolute;
+    top: 0;
+    left: 0;
+    width: 8rem;
+    height: 5rem;
+}
+.page2 img:nth-child(2){
+    position:absolute;
+    top: 200px;
+    left: 0px;
+    width: 8rem;
+    height: 5.2rem;
+}
+.page2 img:nth-child(3){
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 7.5rem;
+    height: 4.2rem;
+}
+.page3{
+    background: url(http://ps3navvpf.bkt.clouddn.com/yangyu/index_6.png);
+    background-size: cover;
+}
+.cc{
+     writing-mode: vertical-lr;
+    font-size: 20px;
+    color: darkslategrey;
+    position: absolute;
+    top : 150px;
+    right: 0;
+    width: 300px;
+    height: 180px;
+}
+.page3 img:nth-child(3){
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 7.5rem;
+    height: 4rem;
+}
+.page3 img:nth-child(2){
+    position:absolute;
+    top: 300px;
+    right: 0px;
+    width: 5rem;
+    height: 3rem;
+}
+.page3 img:nth-child(1){
+    position:absolute;
+    top:0;
+    right: 0px;
+    width: 7.88rem;
+    height: 2rem;
+}
+.page4{
+    background: url(http://ps3navvpf.bkt.clouddn.com/yangyu/index_6.png);
+    background-size: cover;
+}
+.dd{
+        writing-mode: vertical-lr;
+       font-size: 20px;
+       color: darkslategrey;
+       position: absolute;
+       top : 150px;   
+       width: 300px;
+       height: 160px;
+}
+.ee{
+    writing-mode: vertical-lr;
+    font-size: 20px;
+    color: darkslategrey;
+    position: absolute;
+    bottom : 45px;
+    right: 0;
+    /* width: 300px;
+    height: 160px; */
+}
+.page4 img:nth-child(3){
+    position:absolute;
+    bottom: 0;
+    left: 0px;
+    width: 4.88rem;
+    height: 3.48rem;
+}
+.page4 img:nth-child(2){
+    position:absolute;
+    top: 280px;
+    left: 0px;
+    width: 6.88rem;
+    height: 3.48rem;
+}
+.page4 img:nth-child(1){
+    position:absolute;
+    top:0;
+    right: 0px;
+    width: 7.88rem;
+    height: 2rem;
+}
+.page5{
+    background: url(http://ps3navvpf.bkt.clouddn.com/yangyu/index_6.png);
+}
+.page5 img:nth-child(1){
+    position:absolute;
+    top:  250px;;
+    right: 0px;
+    width: 7.88rem;
+    height: 4rem;
+}
